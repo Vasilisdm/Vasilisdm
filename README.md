@@ -1,4 +1,18 @@
-### Hi there 👋
+### More about me
+
+```
+val vasilisdm = developer {
+    about {
+        name = "Vasilis Dimitriou"
+        company = Katanox
+        role = Backend_software_engineer
+    }
+    tech("Kotlin", "Spring", "Ktor")
+    links {
+        twitter = "@vasilisdmr"
+    }
+}
+```
 
 <!--
 **Vasilisdm/Vasilisdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
