@@ -5,7 +5,7 @@ val vasilisdm = developer {
     about {
         name = "Vasilis Dimitriou"
         company = Katanox
-        role = Backend_software_engineer
+        role = "Backend software engineer"
     }
     tech("Kotlin", "Spring", "Ktor")
     links {
