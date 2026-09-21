@@ -7,7 +7,7 @@ val vasilisdm = developer {
         company = Katanox
         role = Backend_Software_Engineer
     }
-    tech("Kotlin", "Spring", "Ktor")
+    tech("Kotlin", "Ktor")
     links {
         twitter = "@vasilisdmr"
     }
